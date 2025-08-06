@@ -10,7 +10,7 @@ html,body{
 }
 
 .pimg1{
-    background-image: url("images/img1.png");
+    background-image: url("images/img.webp");
     min-height: 100%;
 
     position: relative;
@@ -20,32 +20,32 @@ html,body{
 }
 
 .pimg2{
-    background-image: url("images/img2.png");
+    background-image: url("images/img2.webp");
     min-height: 500px;
 }
 
 .pimg3{
-    background-image: url("images/img3.png");
+    background-image: url("images/img3.webp");
     min-height: 500px;
 }
 
 .pimg4{
-    background-image: url("images/img4.png");
+    background-image: url("images/img4.webp");
     min-height: 500px;
 }
 
 .pimg5{
-    background-image: url("images/img5.png");
+    background-image: url("images/img5.webp");
     min-height: 500px;
 }
 
 .pimg6{
-    background-image: url("images/img6.png");
+    background-image: url("images/img6.webp");
     min-height: 500px;
 }
 
 .pimg7{
-    background-image: url("images/img7.png");
+    background-image: url("images/img7.webp");
     min-height: 500px;
 }
 
